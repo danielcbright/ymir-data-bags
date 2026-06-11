@@ -1,9 +1,9 @@
 {
   "id": "regions",
   "version-1": {
-    "encrypted_data": "VqPk3bS5X6fncIQQSzMXKYMqCg==\n",
-    "iv": "/qNjpwzjyu/CIO9r\n",
-    "auth_tag": "MlF9fd9TSJOkaKASeuLf7g==\n",
+    "encrypted_data": "ZwYfg79GgDeMT+MPKO9LnA3eXw==\n",
+    "iv": "MTKel5cKIAsWJtOy\n",
+    "auth_tag": "hp2htq0pEif6jU+xI9sVpA==\n",
     "version": 3,
     "cipher": "aes-256-gcm"
   }
